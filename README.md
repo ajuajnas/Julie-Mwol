@@ -23,7 +23,7 @@ Project created by <a href="https://github.com/ajuajnas">Chinju-Mwol</a> to make
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ajuajnas/Julie-Mwol) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhan-dz/Julie-mwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhan-dqz/Julie-mwol)
   
 ### The Hard Method
 ```js

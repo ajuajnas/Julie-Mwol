@@ -5,7 +5,7 @@
 <a href="#"><img title="Chinju-Mwol" src="https://img.shields.io/badge/Chinju-Mowl-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/farhan-dqz">Chinju-Mwol<img title="Author" src="https://img.shields.io/badge/Author-ajuajnas/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ajuajnas">Chinju-Mwol<img title="Author" src="https://img.shields.io/badge/Author-ajuajnas/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
@@ -23,7 +23,7 @@ Project created by <a href="https://github.com/ajuajnas">Chinju-Mwol</a> to make
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ajuajnas/Julie-Mwol) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ajuajnas/Chinju-Mwol)
   
 ### The Hard Method
 ```js

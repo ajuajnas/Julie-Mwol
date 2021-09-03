@@ -48,10 +48,10 @@ $ node julie.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/farhan-dqz/JulieMwol">
+  <a href="httsp://github.com/ajuajnas/Chinju-Mwol">
     
 <a href="https://github.com/farhan-dqz/followers">
-<img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
+<img src="https://img.shields.io/github/repo-size/ajuajnas/Chinju-Mwol?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/farhan-dqz/followers"
 <img title="Followers" src="https://img.shields.io/github/followers/farhan-dqz?color=blue&style=flat-square"></a>
@@ -67,7 +67,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/BT0nNPBthyFI1ejoSr0i7W)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=Julie-Mwol&theme=nightowl)](https://github.com/farhan-dqz/Julie-Mwol)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=Julie-Mwol&theme=nightowl)](https://github.com/ajuajnas/Chinju-Mwol)
   </div>
     
 ### ⚠️ Warning! 

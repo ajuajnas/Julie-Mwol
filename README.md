@@ -2,14 +2,14 @@
 <div align="center">
   <img border-radius: 15px src="https://avatars.githubusercontent.com/u/83164448?v=4" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Chinju-Mwol" src="https://img.shields.io/badge/Chinju-Mowl-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="JulieMwol" src="https://img.shields.io/badge/Chinju-Mowl-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ajuajnas">Chinju-Mwol<img title="Author" src="https://img.shields.io/badge/Author-ajuajnas/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/farhan-dqz">JulieMwol<img title="Author" src="https://img.shields.io/badge/Author-farhan-dqz/JulieMwol?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/ajuajnas">Chinju-Mwol</a> to make it public
+Project created by <a href="https://github.com/farhan-dqz">Chinju-Mwol</a> to make it public
     <br>
        | © |
         Reserved |
@@ -30,7 +30,7 @@ Project created by <a href="https://github.com/ajuajnas">Chinju-Mwol</a> to make
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/ajuajnas/JulieMwol
+$ git clone https://github.com/farhan-dqz/JulieMwol
 $ cd JulieMwol
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -39,8 +39,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/ajuajnas/JulieMwol
-$ cd Chinju-Mwol
+$ git clone https://github.com/farhan-dqz/JulieMwol
+$ cd JulieMwol
 $ npm i
 $ node julie.js
 ```
@@ -48,7 +48,7 @@ $ node julie.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/ajuajnas/Chinju-Mwol">
+  <a href="httsp://github.com/farhan-dqz/JulieMwol">
     
 <a href="https://github.com/farhan-dqz/followers">
 <img src="https://img.shields.io/github/repo-size/ajuajnas/Chinju-Mwol?color=green&label=Repo%20total%20size&style=plastic">
